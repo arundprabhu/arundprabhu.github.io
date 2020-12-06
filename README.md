@@ -1,4 +1,10 @@
-# al-folio
+# Homepage
+
+Welcome to my [personal page](https://arundprabhu.github.io/)!
+
+# Theme Details
+
+## al-folio
 A simple and clean [Jekyll](https://jekyllrb.com/) theme for academics.
 
 **al-folio** is based on [\*folio theme](https://github.com/bogoli/-folio).
